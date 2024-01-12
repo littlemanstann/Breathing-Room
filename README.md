@@ -11,6 +11,7 @@
 
 Currently, the game contains the following features:
  - Intro cutscene
+ - Controls display
  - Breathing/blinking mechanics
  - Background audio/sound effects!
  - One monster
