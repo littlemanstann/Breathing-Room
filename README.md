@@ -5,7 +5,8 @@
 
 "Breathing Room" is a 2D horror game controlled purely through your mouse. Left alone and defenseless, you must avoid detection from the monsters outside your office by controlling the sound of your breathing. Gameplay is heavily inspired from the likes of the FNAF series.
 
-**Can you Survive?** ![MCPeek](https://github.com/littlemanstann/Breathing-Room/assets/9904348/c81e4ec9-b2a3-4a34-8791-a5deeb2b78fb)
+**Can you Survive?** 
+![MCPeek](https://github.com/littlemanstann/Breathing-Room/assets/9904348/c81e4ec9-b2a3-4a34-8791-a5deeb2b78fb)
 
 Currently, the game contains the following features:
  - Intro cutscene
