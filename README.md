@@ -8,9 +8,10 @@
 Currently, the game contains the following features:
  - Intro cutscene
  - Breathing/blinking mechanics
- - Background audio/sound effects
+ - Background audio/sound effects!
  - One monster
  - Game over screen
+![bloodbackground](https://github.com/littlemanstann/Breathing-Room/assets/9904348/a3dea0c1-10f7-4c44-9df6-bddf921aa03d)
 
 Planned Features:
  - More in-depth breathing mechanic
