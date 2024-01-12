@@ -1,8 +1,21 @@
 # Breathing Room
-### A Mouse-Based Horror Game
+### A Mouse-Based Horror Game by Stanny Huang
 
-*Horrible abominations roam the halls of *
-This is 
+*One failed experiment led to your ungodly creations free from their containment. Horribly injured from the chaos that ensued, you are left gravely injured and helplessly exposed to the mistreated monstrosities eager to enact their revenge. As you lie immobile against the far reaches of your office, your only hope for survival is to pray your abominations remain ignorant of your hiding spot...*
 
-Current Features:
- - 
+"Breathing Room" is a 2D horror game controlled purely through your mouse. Left alone and defenseless, you must avoid detection from the monsters outside your office by controlling the sound of your breathing. Gameplay is heavily inspired from the likes of the FNAF series.
+
+Currently, the game contains the following features:
+ - Intro cutscene
+ - Breathing/blinking mechanics
+ - Background audio/sound effects
+ - One monster
+ - Game over screen
+
+Planned Features:
+ - More in-depth breathing mechanic
+ - Updated audio
+ - More monsters (especially ones that react to vision/being looked at)
+ - Different endings
+
+Current Version: v0.1 (Initial Prototype)
